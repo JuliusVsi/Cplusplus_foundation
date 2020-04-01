@@ -2,3 +2,5 @@
 
 void firstStrPrint();
 void carrots();
+void getinfo();
+void unitTrans();
