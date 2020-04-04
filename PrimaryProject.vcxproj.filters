@@ -24,12 +24,18 @@
     <ClCompile Include="Start\Source\StringPrint.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Start\Source\DataStructure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Start\Header\Calculator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Start\Header\StringPrint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Start\Header\DataStructure.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

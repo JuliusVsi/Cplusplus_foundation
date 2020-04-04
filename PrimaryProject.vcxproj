@@ -142,10 +142,12 @@
   <ItemGroup>
     <ClCompile Include="Demo.cpp" />
     <ClCompile Include="Start\Source\Calculator.cpp" />
+    <ClCompile Include="Start\Source\DataStructure.cpp" />
     <ClCompile Include="Start\Source\StringPrint.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Start\Header\Calculator.h" />
+    <ClInclude Include="Start\Header\DataStructure.h" />
     <ClInclude Include="Start\Header\StringPrint.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
